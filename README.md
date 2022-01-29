@@ -1,2 +1,2 @@
 # Israeli-stock-index-extractor
-Extract list of symbols of the major indexes in Tel aviv stock exchange.
+Extract a list of symbols of the major indexes in the Tel Aviv stock exchange.
